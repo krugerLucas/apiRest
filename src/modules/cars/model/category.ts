@@ -1,4 +1,5 @@
 //criar a classe modelo para o category[array] que sera usado no categoriesRepositories
+//criar tabelasnmaisfniawf
 import { v4 as uuidv4 } from 'uuid';
 
 class Category {
